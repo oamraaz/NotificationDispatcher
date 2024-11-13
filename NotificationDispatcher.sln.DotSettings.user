@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=062921e4_002D6a92_002D4675_002Da72d_002D63b9f0f92ea4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from DispatcherTests.cs #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;617ED68B-AFA2-4668-B225-055000F73E95/d:tests/f:DispatcherTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=894dd789_002D182b_002D4aa5_002Da894_002Dfa744418b3a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DispatcherTests.cs #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;617ED68B-AFA2-4668-B225-055000F73E95/d:tests/f:DispatcherTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac516362_002D345a_002D404c_002Db1ab_002Dc9606c929715/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DispatcherTests.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;617ED68B-AFA2-4668-B225-055000F73E95/d:tests/f:DispatcherTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b2eb0d20_002D1c98_002D42cd_002D82e4_002Db007de61cfa5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DispatcherTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;617ED68B-AFA2-4668-B225-055000F73E95/d:tests/f:DispatcherTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=da9ce220_002D891c_002D4b49_002Da38b_002D1103bf812038/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DispatcherTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;617ED68B-AFA2-4668-B225-055000F73E95/d:tests/f:DispatcherTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0acca87_002Dc0e1_002D4d58_002Db542_002Dabe36195a604/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DispatcherTests.cs #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;617ED68B-AFA2-4668-B225-055000F73E95/d:tests/f:DispatcherTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f21914bd_002Ddadf_002D4330_002D9345_002D61df43e0e7e4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DispatcherTests.cs #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;617ED68B-AFA2-4668-B225-055000F73E95/d:tests/f:DispatcherTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ffd87c14_002Dc702_002D4200_002D9e4d_002D1418a4de68b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DispatcherTests.cs #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;617ED68B-AFA2-4668-B225-055000F73E95/d:tests/f:DispatcherTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
